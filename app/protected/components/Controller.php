@@ -28,6 +28,6 @@ class Controller extends CController
 	 */
 	public function test($test)
 	{
-			
+		echo 'Testing git!';
 	}
 }
